@@ -1,0 +1,3 @@
+tr splits words into lines.
+awk calculates lengths and averages.
+sort and uniq count unique words.
