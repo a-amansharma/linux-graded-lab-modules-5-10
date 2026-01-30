@@ -1,0 +1,2 @@
+grep is used with patterns to classify words.
+Case is ignored using lowercase conversion.
