@@ -1,0 +1,2 @@
+wait() is used to clean child processes.
+This prevents zombie processes.
