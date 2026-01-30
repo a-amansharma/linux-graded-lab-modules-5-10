@@ -1,0 +1,3 @@
+comm is used to compare directory file lists.
+cmp checks whether file contents are identical.
+The script does not modify any files.
