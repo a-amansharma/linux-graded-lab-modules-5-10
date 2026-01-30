@@ -1,0 +1,11 @@
+Command: ./log_analyze.sh logfile.txt
+Explanation: This command executes the shell script on the provided log file to analyze log entries.
+
+Command: grep -c "ERROR" logfile.txt
+Explanation: This command counts the number of ERROR messages in the log file.
+
+Command: tail -1
+Explanation: This command retrieves the most recent ERROR message from the log file.
+
+Command: date +%F
+Explanation: This command appends the current date to the log summary report file name.

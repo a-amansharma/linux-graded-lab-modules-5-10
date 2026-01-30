@@ -6,3 +6,4 @@ Explanation: The script detects a file and displays the number of lines, words, 
 
 Command: ./analyze.sh .
 Explanation: The script detects a directory and counts total files and text files using find and wc.
+

@@ -1,0 +1,11 @@
+Command: while IFS=',' read -r roll name m1 m2 m3
+Explanation: This loop reads student records line by line from the marks.txt file by separating fields using commas.
+
+Command: if [ $m1 -lt 33 ]
+Explanation: This condition checks whether a student has failed in a subject based on passing marks.
+
+Command: $((fail_count+1))
+Explanation: This arithmetic operation increments the count of failed subjects for a student.
+
+Command: echo
+Explanation: These commands display students' results and the final count of each category.
