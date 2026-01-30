@@ -1,0 +1,11 @@
+Command: grep -E
+Explanation: This command filters valid email addresses using extended regular expressions.
+
+Command: sort | uniq
+Explanation: These commands sort the valid email list and remove duplicate entries.
+
+Command: grep -Ev
+Explanation: This command extracts invalid email addresses by excluding valid patterns.
+
+Command: Output redirection (>)
+Explanation: Redirection is used to store results into valid.txt and invalid.txt files.
