@@ -1,0 +1,8 @@
+Command: chmod +x analyze.sh
+Explanation: This command makes the shell script executable so it can be run from the terminal.
+
+Command: ./analyze.sh analyze.sh
+Explanation: The script detects a file and displays the number of lines, words, and characters using the wc command.
+
+Command: ./analyze.sh .
+Explanation: The script detects a directory and counts total files and text files using find and wc.
